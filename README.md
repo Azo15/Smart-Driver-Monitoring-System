@@ -65,3 +65,10 @@ DrowsinessProject/
 ├── arduino_control.ino   # Arduino donanım kontrol kodu
 ├── model.tflite          # AI Telefon tespit modeli
 └── README.md             # Proje dokümantasyonu
+```
+
+## Geliştiren: Azo Ismail
+
+## E-posta: ismailazo260@gmail.com
+
+## Kurum: Kırklareli Üniversitesi - Yazılım Mühendisliği

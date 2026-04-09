@@ -29,7 +29,7 @@ face_mesh = mp_face_mesh.FaceMesh(refine_landmarks=True, max_num_faces=1)
 try:
     arduino = serial.Serial('COM9', 9600, timeout=0.1)
     time.sleep(2) # Arduino'nun kendine gelip bağlantıyı kurması için bekletiyoruz
-    print("Arduino başarıyla bağlandı, hocam!")
+    print("Arduino başarıyla bağlandı!")
 except:
     arduino = None
     print("Hata! Arduino bulunamadı. Kabloyu taktınız mı veya COM portunu doğru mu yazdık?")

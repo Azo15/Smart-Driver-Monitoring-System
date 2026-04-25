@@ -2,6 +2,14 @@
 
 Bu proje, sürücü güvenliğini artırmak ve trafik kazalarını önlemek amacıyla geliştirilmiş; **Yapay Zeka (Computer Vision)** ve **Gömülü Sistemler (Arduino)** entegrasyonuna sahip hibrit bir takip sistemidir. Sistem, kamera üzerinden aldığı görüntüyü anlık işleyerek 5 farklı tehlike senaryosunu tespit eder ve hem görsel hem sesli uyarı verir.
 
+<img width="1280" height="720" alt="photo_2026-04-25_23-55-05" src="https://github.com/user-attachments/assets/58c812c2-94ef-48b8-adc9-207076cb25ec" />
+
+<img width="1280" height="720" alt="photo_2026-04-26_00-25-17" src="https://github.com/user-attachments/assets/b41e235c-2d15-483a-b667-4d2a23df48c0" />
+<img width="1280" height="720" alt="photo_2026-04-26_00-24-48" src="https://github.com/user-attachments/assets/456c7d38-edf9-4988-9b08-7453410d0de8" />
+<img width="1295" height="703" alt="image" src="https://github.com/user-attachments/assets/54c66832-f321-400d-804e-dca4c5604417" />
+
+
+
 ## 🌟 Öne Çıkan Özellikler
 
 Sistem, **MediaPipe Face Mesh** ve **Object Detection** teknolojilerini kullanarak şu senaryoları anlık takip eder:

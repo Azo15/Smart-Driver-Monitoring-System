@@ -55,6 +55,8 @@ Bağlantılar aşağıdaki pin yapısına göre kurulmuştur:
 
 1.  **Gereksinimleri Yükleyin:**
     ```bash
+    pip install -r requirements.txt
+    # veya manuel olarak:
     pip install opencv-python mediapipe pyserial
     ```
 2.  **Model Dosyasını Hazırlayın:**
@@ -72,6 +74,7 @@ DrowsinessProject/
 ├── yorgunluk_takibi.py   # Ana Python uygulama kodu
 ├── arduino_control.ino   # Arduino donanım kontrol kodu
 ├── model.tflite          # AI Telefon tespit modeli
+├── requirements.txt      # Python bağımlılıkları
 └── README.md             # Proje dokümantasyonu
 ```
 
